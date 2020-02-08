@@ -1,0 +1,20 @@
+{
+  "members" : [
+    {
+      "name" : "Adam Addams",
+      "birthday" : "02.12.1987"
+    },
+    {
+      "name" : "Carol Asylum",
+      "birthday" : "29.10.1977"
+    },
+    {
+      "name" : "Bettina Herbert",
+      "birthday" : "13.09.1984"
+    },
+    {
+      "name" : "Dieter Crebbys",
+      "birthday" : "02.12.1997"
+    }      
+  ]
+}
